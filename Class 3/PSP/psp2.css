@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(blue,lightblue);
+}
+
+.one{
+    background-color: salmon;
+    height: 500px;
+    width: 400px;
+}
+#two{
+    background-color: rgb(230, 175, 143);
+    height: 400px;
+    width: 350px;
+}
+#three{
+    background-color: rgb(235, 35, 13);
+    height: 300px;
+    width: 250px;
+}
+#four{
+    height: 200px;
+    width: 200px;
+}
